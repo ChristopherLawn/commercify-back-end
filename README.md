@@ -1,4 +1,4 @@
-# Commericify: Back-End
+# Commercify: Back-End
 
 ## Description
 A fully built back-end structure that serves as a base for creating an e-commerce site! Commercify provides the built-in functionality to view, create, update, and delete item categories, products, prices, and keyword description tags. Use Commercify as the foundation to build your online shop today!
